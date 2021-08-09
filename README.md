@@ -15,7 +15,7 @@ const Daniel: Person = {
   hobbies: ['Videogames', 'Manga', 'Music', 'Films', 'Exercise'],
   dev: {
     front_end: ['Angular','Javascript','CSS', 'Bootstrap', 'Bulma'],
-    back_end: ['NodeJs','NestJs','MySQL','SQLite','MongoDB', 'Docker'],
+    back_end: ['NodeJs','NestJs','MySQL','SQLite','MongoDB', 'SQL Server'],
     mobile: ['Ionic (just basics)', 'Android Studio (basics too, that RAM Eater xD)']
   },
   dev_goals: ['Learn React', 'More PHP', 'less Android Studio lmao'],
