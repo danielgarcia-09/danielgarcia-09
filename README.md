@@ -14,7 +14,7 @@ const Daniel: Person = {
   birthday: "09/02/2001", //using this format DD/MM/YYYY
   hobbies: ['Videogames', 'Manga', 'Music', 'Films', 'Exercise'],
   dev: {
-    front_end: ['Angular','Javascript','CSS', 'Bootstrap', 'Bulma'],
+    front_end: ['React','Angular','Javascript','CSS', 'Bootstrap', 'Bulma'],
     back_end: ['NodeJs','NestJs','MySQL','SQLite','MongoDB', 'SQL Server'],
     mobile: ['Ionic (just basics)', 'Android Studio (basics too, that RAM Eater xD)']
   },
