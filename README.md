@@ -1,6 +1,6 @@
 ## I'm Daniel, a junior software developer 🇩🇴 <div align = 'right'>![](https://komarev.com/ghpvc/?username=danielgarcia-09&color=blue)</div>
 
-- 🌱 I’m currently learning React,NodeJs, NestJs, TypeScript... 
+- 🌱 I’m currently learning React, NodeJs, NestJs, TypeScript... 
 - 💬 Ask me about my favorite color!
 - 📫 How to reach me: daniel.garcia7913@gmail.com
 - 🥘 I love cooking and watching all kinds of 📽️
