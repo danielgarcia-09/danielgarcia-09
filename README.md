@@ -1,4 +1,4 @@
-## I'm Daniel, a junior software developer 🇩🇴 <div align = 'right'>![](https://komarev.com/ghpvc/?username=danielgarcia-09&color=blue)</div>
+## I'm Daniel, a software developer 🇩🇴 <div align = 'right'>![](https://komarev.com/ghpvc/?username=danielgarcia-09&color=blue)</div>
 
 - 🌱 I’m currently learning React, NodeJs, NestJs, TypeScript... 
 - 💬 Ask me about my favorite color!
