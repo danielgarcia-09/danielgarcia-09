@@ -1,4 +1,4 @@
-## I'm Daniel, a software developer 🇩🇴 <div align = 'right'>![](https://komarev.com/ghpvc/?username=danielgarcia-09&color=blue)</div>
+## I'm Daniel, a software developer <div align = 'right'>![](https://komarev.com/ghpvc/?username=danielgarcia-09&color=blue)</div>
 
 - 🌱 I’m currently learning React, NodeJs, NestJs, TypeScript... 
 - 💬 Ask me about my favorite color!
@@ -18,7 +18,7 @@ const Daniel: Person = {
     back_end: ['NodeJs','NestJs','MySQL','SQLite','MongoDB', 'SQL Server'],
     mobile: ['Ionic (just basics)', 'Android Studio (basics too, that RAM Eater xD)']
   },
-  dev_goals: ['Learn React', 'More PHP', 'less Android Studio lmao'],
+  dev_goals: ['More React', 'Nodejs and Nestjs overdrive', 'less Android Studio lmao'],
   fav_quote: 'The only one who is really judging you is yourself, nobody else'
 }
 ```
