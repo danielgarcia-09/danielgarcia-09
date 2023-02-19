@@ -8,13 +8,13 @@
 ## Me as an object :trollface:
 ```ts
 const Daniel: Person = {
-  age: 21,
+  age: 22,
   zodiac_sign: "Aquarius",
   birthday: "09/02/2001", //using this format DD/MM/YYYY
   hobbies: ['Videogames', 'Manga', 'Music', 'Films', 'Exercise'],
   dev: {
-    front_end: ['React','Angular','Javascript','CSS', 'Bootstrap', 'Bulma'],
-    back_end: ['NodeJs','NestJs','MySQL','SQLite','MongoDB', 'SQL Server'],
+    front_end: ['Nextjs','React','Angular','Javascript','CSS', 'Bootstrap', 'Bulma'],
+    back_end: ['NodeJs','NestJs','PostgreSQL''MySQL','SQLite','MongoDB', 'SQL Server'],
     mobile: ['Ionic (just basics)', 'Android Studio (basics too, that RAM Eater xD)']
   },
   dev_goals: ['More React', 'Nodejs and Nestjs overdrive', 'less Android Studio lmao'],
