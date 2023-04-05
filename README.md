@@ -32,7 +32,7 @@ const Daniel: Person = {
   </a>
 </p>
 
-## More info ℹ️
+## My Stats
 
   <center>
     <table>
@@ -42,6 +42,7 @@ const Daniel: Person = {
   </center>
 
 
+## Technologies I'm learning
   <center>
     <table>
       <tr>
