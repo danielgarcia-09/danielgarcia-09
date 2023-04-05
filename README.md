@@ -24,7 +24,7 @@ const Daniel: Person = {
 
 ## Reach me 🌎
 <p>
-  <a href="https://www.linkedin.com/in/daniel-garc%C3%ADa-ba03ba215/" rel="nofollow noreferrer">
+  <a href="https://www.linkedin.com/in/dgarcia0913/" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a> &nbsp; 
   <a href="https://twitter.com/kanedaboi_" rel="nofollow noreferrer">
@@ -34,20 +34,14 @@ const Daniel: Person = {
 
 ## More info ℹ️
 
-<details>
-  <summary>Info about my repositories 💥 </summary>
-  <br>
   <center>
     <table>
       <td> <img src="https://github-readme-stats.vercel.app/api?username=danielgarcia-09&show_icons=true&theme=radical"> </td>
       <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielgarcia-09&theme=radical&layout=compact"> </td>
     </table>
   </center>
-</details>
 
-<details>
-  <summary> Tecnologies I'm actually learning 💭 </summary>
-  <br>
+
   <center>
     <table>
       <tr>
@@ -66,4 +60,3 @@ const Daniel: Person = {
       </tr>
     </table>
   </center>
-</details>
