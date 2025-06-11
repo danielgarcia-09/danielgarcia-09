@@ -8,7 +8,7 @@
 ## Me as an object :trollface:
 ```ts
 const Daniel: Person = {
-  age: 22,
+  age: 24,
   zodiac_sign: "Aquarius",
   birthday: "09/02/2001", //using this format DD/MM/YYYY
   hobbies: ['Videogames', 'Manga', 'Music', 'Films', 'Exercise'],
